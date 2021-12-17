@@ -1,0 +1,115 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="../PluginDataTable/jquery.min.js"></script>
+    <script src="../PluginDataTable/jquery.dataTables.min.js"></script>
+    <link href="../PluginDataTable/jquery.dataTables.css" rel="stylesheet" />
+    <script src="../JqueryHelper/CutomJqueryhelper.js"></script>
+    <link href="../css/loader.css" rel="stylesheet" />
+</head>
+<body>
+
+    <div id="InputDivID">
+        <h1>The input element</h1>
+        <label for="fname">Name:</label>
+        <input type="text" id="txtName" maxlength="50" required>
+        <label for="lname">MobileNo:</label>
+        <input type="text" id="txtMobileNo" maxlength="10" required>
+
+        <label for="lname">Organization:</label>
+        <input type="text" id="txtOrganization" maxlength="100" required>
+
+
+        <label for="lname">Address:</label>
+        <input type="text" id="txtAddress" maxlength="500" required><br><br>
+
+        <label for="lname">EmailAddress:</label>
+        <input type="text" id="txtEmailAddress" maxlength="150" required>
+
+        <label for="lname">Location:</label>
+        <input type="text" id="txtLocation" maxlength="150" required>
+
+        <label for="lname">VehicleNo:</label>
+        <input type="text" id="txtVehicleNo" maxlength="50" required>
+
+
+        <label for="lname">VehicleType:</label>
+        <input type="text" id="txtVehicleType" maxlength="150" required>
+
+        <label for="lname">ChassisNo:</label>
+        <input type="text" id="txtChassisNo" maxlength="150" required><br><br>
+
+
+        <label for="lname">EngineNo:</label>
+        <input type="text" id="txtEngineNo" maxlength="150" required>
+
+
+        <label for="lname">ManufacturerYear:</label>
+        <input type="text" id="txtManufacturerYear" maxlength="4" required>
+
+
+        <label for="lname">LoadCarryingCapacity:</label>
+        <input type="text" id="txtLoadCarryingCapacity" maxlength="10" required>
+
+
+        <label for="lname">MakeOfVehicle:</label>
+        <input type="text" id="txtMakeOfVehicle" maxlength="100" required><br><br>
+
+        <label for="lname">ModelNo:</label>
+        <input type="text" id="txtModelNo" maxlength="50" required>
+
+        <label for="lname">BodyType:</label>
+        <input type="text" id="txtBodyType" maxlength="90" required>
+
+        <label for="lname">OrganizationName:</label>
+        <input type="text" id="txtOrganizationName" maxlength="100" required>
+
+        <label for="lname">DeviceID:</label>
+        <input type="text" id="txtDeviceID" maxlength="10" required>
+
+        <input id="hdnUserID" style="display:none;" type="hidden" />
+    </div><br><br>
+
+    <input id="btnSubmit" type="submit" value="Submit" formnovalidate />
+    <input id="btnClear" type="submit" value="Clear" /><br><br>
+
+    <div id="tblDiv">
+        <div id="loader"></div>
+
+        <table id="tbl" class="table table-responsive table-hover">
+            <thead>
+                <tr>
+                    <th>UserID</th>
+                    <th>Name</th>
+                    <th>MobileNo</th>
+                    <th>Organization</th>
+                    <th>Address</th>
+
+                    <th>EmailAddress</th>
+                    <th>Location</th>
+
+                    <th>VehicleNo</th>
+                    <th>VehicleType</th>
+                    <th>ChassisNo</th>
+
+                    <th>EngineNo</th>
+                    <th>ManufacturerYear</th>
+
+                    <th>LoadCarryingCapacity</th>
+                    <th>MakeOfVehicle</th>
+
+                    <th>ModelNo</th>
+                    <th>BodyType</th>
+
+                    <th>OrganizationName</th>
+                    <th>DeviceID</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+</body>
+</html>
+
+

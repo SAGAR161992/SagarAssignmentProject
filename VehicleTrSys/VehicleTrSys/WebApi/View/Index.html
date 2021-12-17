@@ -1,0 +1,397 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
+    <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+    <link href="../css/tblStyle.css" rel="stylesheet" />
+    <link href="../css/loader.css" rel="stylesheet" />
+    <script type="text/javascript">
+        //please Set Port no localhost:
+        var PortNo = '60874';
+
+    
+
+        //StringBuilder like C#
+        function StringBuilder(value) {
+            this.strings = new Array();
+            this.append(value);
+        }
+
+        StringBuilder.prototype.append = function (value) {
+            if (value) {
+                this.strings.push(value);
+            }
+        }
+
+        StringBuilder.prototype.clear = function () {
+            this.strings.length = 0;
+        }
+
+        StringBuilder.prototype.toString = function () {
+            return this.strings.join("");
+        }
+        //End StringBuilder like C#
+
+
+        function GetData() {
+            $("#tbl > tbody").empty();
+            var serviceURL = 'http://localhost:' + PortNo + '/home/GetUserVehicleInfo/';
+            $('#loader').show();
+            $.ajax({
+                type: "POST",
+                url: serviceURL,
+                data: param = "",
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: successFunc,
+                error: errorFunc
+            });
+        }
+
+        function GetCheckVNo() {
+            debugger;
+            if ($('#txtVehicleNo').val() != '') {
+                var serviceURL = 'http://localhost:' + PortNo + '/home/GetVehicleNoCheck/';
+                var data = "{'VehicleNo':'" + $('#txtVehicleNo').val() + "'}";
+                $.ajax({
+                    type: "POST",
+                    url: serviceURL,
+                    data: data,
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    success: successFuncCheckVNO,
+                    error: errorFunc
+                });
+            }
+        }
+
+        function successFuncCheckVNO(data) {
+            try {
+                debugger;
+                var Result = data.RETURNCODE;
+                if (Result != 0) {
+                    alert("Vehicle No already exists..");
+                    $('#txtVehicleNo').val("");
+                }
+            }
+            catch (e) { alert(e); }
+        }
+
+
+        function successFunc(data) {
+
+            var tr;
+            for (var i = 0; i < data.length; i++) {
+                tr = $('<tr/>');
+                tr.append("<td>" + data[i].UserID + "</td>");
+                tr.append("<td>" + data[i].Name + "</td>");
+                tr.append("<td>" + data[i].MobileNo + "</td>");
+                tr.append("<td>" + data[i].Organization + "</td>");
+                tr.append("<td>" + data[i].Address + "</td>");
+
+
+                tr.append("<td>" + data[i].EmailAddress + "</td>");
+                tr.append("<td>" + data[i].Location + "</td>");
+
+                tr.append("<td>" + data[i].VehicleNo + "</td>");
+                tr.append("<td>" + data[i].VehicleType + "</td>");
+
+                tr.append("<td>" + data[i].ChassisNo + "</td>");
+                tr.append("<td>" + data[i].EngineNo + "</td>");
+
+                tr.append("<td>" + data[i].ManufacturerYear + "</td>");
+                tr.append("<td>" + data[i].LoadCarryingCapacity + "</td>");
+
+                tr.append("<td>" + data[i].MakeOfVehicle + "</td>");
+                tr.append("<td>" + data[i].ModelNo + "</td>");
+
+                tr.append("<td>" + data[i].BodyType + "</td>");
+                tr.append("<td>" + data[i].OrganizationName + "</td>");
+
+                tr.append("<td>" + data[i].DeviceID + "</td>");
+                $('#tbl').append(tr);
+                $('#loader').hide();
+            }
+        }
+
+
+
+        $(document).ready(function () {
+            $('#loader').hide();
+            $("#txtVehicleNo").blur(function () {
+                if ($('#txtVehicleNo').val() != '')
+                    GetCheckVNo($('#txtVehicleNo').val());
+            });
+
+
+            $('#InputDivID').find('input:text').val('');
+            GetData();
+            //DataTableBind('#tbl', '0', 'abcd');
+
+            (function ($) {
+                $.fn.inputFilter = function (inputFilter) {
+                    return this.on("input keydown keyup mousedown mouseup select contextmenu drop", function () {
+                        if (inputFilter(this.value)) {
+                            this.oldValue = this.value;
+                            this.oldSelectionStart = this.selectionStart;
+                            this.oldSelectionEnd = this.selectionEnd;
+                        } else if (this.hasOwnProperty("oldValue")) {
+                            this.value = this.oldValue;
+                            this.setSelectionRange(this.oldSelectionStart, this.oldSelectionEnd);
+                        } else {
+                            this.value = "";
+                        }
+                    });
+                };
+            }(jQuery));
+
+            $("#txtMobileNo").inputFilter(function (value) {
+                return /^-?\d*$/.test(value);
+                //  return /^-?\d*[.,]?\d{0,2}$/.test(value);
+            });
+            $("#txtDeviceID").inputFilter(function (value) {
+                return /^-?\d*$/.test(value);
+                //  return /^-?\d*[.,]?\d{0,2}$/.test(value);
+            });
+
+            $("#txtManufacturerYear").inputFilter(function (value) {
+                return /^-?\d*$/.test(value);
+                //  return /^-?\d*[.,]?\d{0,2}$/.test(value);
+            });
+
+            $("#txtLoadCarryingCapacity").inputFilter(function (value) {
+                return /^-?\d*$/.test(value);
+                //  return /^-?\d*[.,]?\d{0,2}$/.test(value);
+            });
+
+
+
+            $(document).on("click", "#tbl tbody tr", function () {
+                debugger;
+                $("#txtVehicleNo").prop('disabled', true);
+                $("#btnSubmit").val("Update");
+
+
+                $("#hdnUserID").val($(this).closest("tr").find('td:eq(0)').text());
+                $("#txtName").val($(this).closest("tr").find('td:eq(1)').text());
+                $("#txtMobileNo").val($(this).closest("tr").find('td:eq(2)').text());
+                $("#txtOrganization").val($(this).closest("tr").find('td:eq(3)').text());
+
+                $("#txtAddress").val($(this).closest("tr").find('td:eq(4)').text());
+                $("#txtEmailAddress").val($(this).closest("tr").find('td:eq(5)').text());
+                $("#txtLocation").val($(this).closest("tr").find('td:eq(6)').text());
+
+                $("#txtVehicleNo").val($(this).closest("tr").find('td:eq(7)').text());
+
+                $("#txtVehicleType").val($(this).closest("tr").find('td:eq(8)').text());
+                $("#txtChassisNo").val($(this).closest("tr").find('td:eq(9)').text());
+                $("#txtEngineNo").val($(this).closest("tr").find('td:eq(10)').text());
+                $("#txtManufacturerYear").val($(this).closest("tr").find('td:eq(11)').text());
+
+                $("#txtLoadCarryingCapacity").val($(this).closest("tr").find('td:eq(12)').text());
+                $("#txtMakeOfVehicle").val($(this).closest("tr").find('td:eq(13)').text());
+                $("#txtModelNo").val($(this).closest("tr").find('td:eq(14)').text());
+                $("#txtBodyType").val($(this).closest("tr").find('td:eq(15)').text());
+
+                $("#txtOrganizationName").val($(this).closest("tr").find('td:eq(16)').text());
+                $("#txtDeviceID").val($(this).closest("tr").find('td:eq(17)').text());
+            });
+
+
+            $('#btnClear').click(function (e) {
+                $("#btnSubmit").val("Submit");
+                $('#InputDivID').find('input:text').val('');
+                $("#txtVehicleNo").prop('disabled', false);
+            });
+
+            $('#btnSubmit').click(function (e) {
+                debugger;
+                var valid = true;
+                $('input[required]').each(function (i, el) {
+                    if (valid && $(el).val() == '') valid = false;
+                })
+
+               
+                    if (valid) {
+                        if ($("#btnSubmit").val() == 'Submit') {
+                            ActionData('I');
+                        } else {
+                            ActionData('U');
+                        }
+                        $('#InputDivID').find('input:text').val('');
+                        $("#btnSubmit").val("Submit");
+                    
+                } else { alert("Vehicle No already exists.."); }
+            });
+        });
+
+        function ActionData(ActionModde) {
+            try {
+                var sb = new StringBuilder();
+                sb.append("<XMLElement>");
+                sb.append("<Action>" + ActionModde + "</Action>");
+                sb.append("<Name>" + $("#txtName").val() + "</Name>");
+                sb.append("<UserID>" + $("#hdnUserID").val() + "</UserID>");
+                sb.append("<Name>" + $("#txtName").val() + "</Name>");
+                sb.append("<MobileNo>" + $("#txtMobileNo").val() + "</MobileNo>");
+                sb.append("<Organization>" + $("#txtOrganization").val() + "</Organization>");
+                sb.append("<Address>" + $("#txtAddress").val() + "</Address>");
+                sb.append("<EmailAddress>" + $("#txtEmailAddress").val() + "</EmailAddress>");
+                sb.append("<Location>" + $("#txtLocation").val() + "</Location>");
+                sb.append("<VehicleNo>" + $("#txtVehicleNo").val() + "</VehicleNo>");
+                sb.append("<VehicleType>" + $("#txtVehicleType").val() + "</VehicleType>");
+                sb.append("<ChassisNo>" + $("#txtChassisNo").val() + "</ChassisNo>");
+
+                sb.append("<EngineNo>" + $("#txtEngineNo").val() + "</EngineNo>");
+                sb.append("<ManufacturerYear>" + $("#txtManufacturerYear").val() + "</ManufacturerYear>");
+                sb.append("<LoadCarryingCapacity>" + $("#txtLoadCarryingCapacity").val() + "</LoadCarryingCapacity>");
+                sb.append("<MakeOfVehicle>" + $("#txtMakeOfVehicle").val() + "</MakeOfVehicle>");
+                sb.append("<ModelNo>" + $("#txtModelNo").val() + "</ModelNo>");
+                sb.append("<BodyType>" + $("#txtBodyType").val() + "</BodyType>");
+                sb.append("<OrganizationName>" + $("#txtOrganizationName").val() + "</OrganizationName>");
+                sb.append("<DeviceID>" + $("#txtDeviceID").val() + "</DeviceID>");
+                sb.append("</XMLElement>");
+
+                var serviceURL = 'http://localhost:' + PortNo + '/home/ActionUserVehicleUserVehicleInfo/';
+                var Details = "{'Details':'" + sb.toString() + "'}";
+                $.ajax({
+                    type: "POST",
+                    url: serviceURL,
+                    data: Details,
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    success: successFuncAction,
+                    error: errorFunc
+                });
+            }
+            catch (e) { alert(e); }
+        }
+
+        function successFuncAction(data) {
+            try {
+                debugger;
+                var Result = data.RETURNCODE;
+                if (Result == 1) {
+                    alert("Data Insert Successfully..");
+                } else {
+                    alert("Data Update Successfully..");
+                }
+                GetData();
+                $('#btnClear').click();
+            }
+            catch (e) { alert(e); }
+        }
+
+        function errorFunc() {
+            alert('error');
+        }
+    </script>
+</head>
+<body>
+
+    <div id="InputDivID">
+        <h1>The input element</h1>
+        <label for="fname">Name:</label>
+        <input type="text" id="txtName" maxlength="50" required>
+        <label for="lname">MobileNo:</label>
+        <input type="text" id="txtMobileNo" maxlength="10" required>
+
+        <label for="lname">Organization:</label>
+        <input type="text" id="txtOrganization" maxlength="100" required>
+
+
+        <label for="lname">Address:</label>
+        <input type="text" id="txtAddress" maxlength="500" required><br><br>
+
+        <label for="lname">EmailAddress:</label>
+        <input type="text" id="txtEmailAddress" maxlength="150" required>
+
+        <label for="lname">Location:</label>
+        <input type="text" id="txtLocation" maxlength="150" required>
+
+        <label for="lname">VehicleNo:</label>
+        <input type="text" id="txtVehicleNo" maxlength="50" required>
+
+
+        <label for="lname">VehicleType:</label>
+        <input type="text" id="txtVehicleType" maxlength="150" required>
+
+        <label for="lname">ChassisNo:</label>
+        <input type="text" id="txtChassisNo" maxlength="150" required><br><br>
+
+
+        <label for="lname">EngineNo:</label>
+        <input type="text" id="txtEngineNo" maxlength="150" required>
+
+
+        <label for="lname">ManufacturerYear:</label>
+        <input type="text" id="txtManufacturerYear" maxlength="4" required>
+
+
+        <label for="lname">LoadCarryingCapacity:</label>
+        <input type="text" id="txtLoadCarryingCapacity" maxlength="10" required>
+
+
+        <label for="lname">MakeOfVehicle:</label>
+        <input type="text" id="txtMakeOfVehicle" maxlength="100" required><br><br>
+
+        <label for="lname">ModelNo:</label>
+        <input type="text" id="txtModelNo" maxlength="50" required>
+
+        <label for="lname">BodyType:</label>
+        <input type="text" id="txtBodyType" maxlength="90" required>
+
+        <label for="lname">OrganizationName:</label>
+        <input type="text" id="txtOrganizationName" maxlength="100" required>
+
+        <label for="lname">DeviceID:</label>
+        <input type="text" id="txtDeviceID" maxlength="10" required>
+
+        <input id="hdnUserID" style="display:none;" type="hidden" />
+    </div><br><br>
+
+    <input id="btnSubmit" type="submit" value="Submit" formnovalidate />
+    <input id="btnClear" type="submit" value="Clear" /><br><br>
+
+    <div id="tblDiv">
+        <div id="loader"></div>
+        <table id="tbl">
+            <thead>
+                <tr>
+                    <th>UserID</th>
+                    <th>Name</th>
+                    <th>MobileNo</th>
+                    <th>Organization</th>
+                    <th>Address</th>
+
+                    <th>EmailAddress</th>
+                    <th>Location</th>
+
+                    <th>VehicleNo</th>
+                    <th>VehicleType</th>
+                    <th>ChassisNo</th>
+
+                    <th>EngineNo</th>
+                    <th>ManufacturerYear</th>
+
+                    <th>LoadCarryingCapacity</th>
+                    <th>MakeOfVehicle</th>
+
+                    <th>ModelNo</th>
+                    <th>BodyType</th>
+
+                    <th>OrganizationName</th>
+                    <th>DeviceID</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+</body>
+</html>
+
+

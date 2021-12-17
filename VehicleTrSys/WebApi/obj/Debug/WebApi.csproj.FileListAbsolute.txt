@@ -1,0 +1,409 @@
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\roslyn\csc.exe
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\roslyn\vbc.exe
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\WebApi.dll.config
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\WebApi.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\WebApi.pdb
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Antlr3.Runtime.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\DataAccess.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\EntityFramework.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\EntityFramework.SqlServer.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.Owin.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.Owin.Security.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.Owin.Security.Google.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Newtonsoft.Json.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Owin.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\RestSharp.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\System.Web.Helpers.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\System.Web.Http.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\System.Web.Http.Owin.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\System.Web.Mvc.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\System.Web.Optimization.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\System.Web.Razor.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\System.Web.WebPages.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\WebGrease.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\DataAccess.pdb
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\RestSharp.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Newtonsoft.Json.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\System.Web.Helpers.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\System.Web.Http.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\System.Web.Mvc.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\System.Web.Optimization.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\System.Web.Razor.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\System.Web.WebPages.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Antlr3.Runtime.pdb
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\EntityFramework.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\EntityFramework.SqlServer.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.Owin.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.Owin.Security.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.Owin.Security.Google.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\bin\System.Web.Http.Owin.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\obj\Debug\WebApi.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\WebApi\obj\Debug\WebApi.pdb
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\roslyn\csc.exe
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\roslyn\vbc.exe
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\WebApi.dll.config
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\WebApi.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\WebApi.pdb
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Antlr3.Runtime.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\DataAccess.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\EntityFramework.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\EntityFramework.SqlServer.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.Google.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Newtonsoft.Json.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Owin.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\RestSharp.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\System.Web.Helpers.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\System.Web.Http.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\System.Web.Http.Owin.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\System.Web.Mvc.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\System.Web.Optimization.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\System.Web.Razor.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\System.Web.WebPages.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\WebGrease.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\DataAccess.pdb
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\RestSharp.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Newtonsoft.Json.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\System.Web.Helpers.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\System.Web.Http.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\System.Web.Mvc.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\System.Web.Optimization.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\System.Web.Razor.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\System.Web.WebPages.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Antlr3.Runtime.pdb
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\EntityFramework.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\EntityFramework.SqlServer.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.Google.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\bin\System.Web.Http.Owin.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\obj\Debug\WebApi.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\WebApi\obj\Debug\WebApi.pdb
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\roslyn\csc.exe
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\roslyn\vbc.exe
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\WebApi.dll.config
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\WebApi.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\WebApi.pdb
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Antlr3.Runtime.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\DataAccess.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\EntityFramework.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\EntityFramework.SqlServer.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.Google.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Newtonsoft.Json.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Owin.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\RestSharp.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\System.Web.Helpers.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\System.Web.Http.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\System.Web.Http.Owin.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\System.Web.Mvc.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\System.Web.Optimization.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\System.Web.Razor.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\System.Web.WebPages.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\WebGrease.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\DataAccess.pdb
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\RestSharp.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Newtonsoft.Json.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\System.Web.Helpers.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\System.Web.Http.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\System.Web.Mvc.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\System.Web.Optimization.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\System.Web.Razor.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\System.Web.WebPages.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Antlr3.Runtime.pdb
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\EntityFramework.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\EntityFramework.SqlServer.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.Google.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\bin\System.Web.Http.Owin.xml
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\obj\Debug\WebApi.dll
+E:\OfficeWork\DEVELOPEMENT\afctradinggrp_WebApi\ApiUniqueID\WebApi\WebApi\obj\Debug\WebApi.pdb
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\roslyn\csc.exe
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\roslyn\System.Collections.Immutable.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\roslyn\vbc.exe
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\roslyn\VBCSCompiler.exe
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\roslyn\VBCSCompiler.exe.config
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\WebApi.dll.config
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\WebApi.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\WebApi.pdb
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Antlr3.Runtime.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\DataAccess.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\EntityFramework.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\EntityFramework.SqlServer.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.Owin.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.Google.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.Web.Infrastructure.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Newtonsoft.Json.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Owin.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\RestSharp.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\System.Net.Http.Formatting.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\System.Web.Helpers.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\System.Web.Http.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\System.Web.Http.Owin.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\System.Web.Http.WebHost.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\System.Web.Mvc.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\System.Web.Optimization.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\System.Web.Razor.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\System.Web.WebPages.Deployment.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\System.Web.WebPages.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\System.Web.WebPages.Razor.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\WebGrease.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\DataAccess.pdb
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\RestSharp.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Newtonsoft.Json.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\System.Net.Http.Formatting.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\System.Web.Helpers.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\System.Web.Http.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\System.Web.Http.WebHost.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\System.Web.Mvc.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\System.Web.Optimization.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\System.Web.Razor.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\System.Web.WebPages.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\System.Web.WebPages.Deployment.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\System.Web.WebPages.Razor.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Antlr3.Runtime.pdb
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\EntityFramework.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\EntityFramework.SqlServer.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.Owin.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.Google.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\bin\System.Web.Http.Owin.xml
+F:\VehicleTrSys\VehicleTrSys\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+F:\VehicleTrSys\VehicleTrSys\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+F:\VehicleTrSys\VehicleTrSys\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+F:\VehicleTrSys\VehicleTrSys\WebApi\obj\Debug\WebApi.dll
+F:\VehicleTrSys\VehicleTrSys\WebApi\obj\Debug\WebApi.pdb
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\roslyn\csc.exe
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\roslyn\System.Collections.Immutable.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\roslyn\vbc.exe
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\roslyn\VBCSCompiler.exe
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\roslyn\VBCSCompiler.exe.config
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\WebApi.dll.config
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\WebApi.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\WebApi.pdb
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Antlr3.Runtime.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\DataAccess.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\EntityFramework.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\EntityFramework.SqlServer.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.Owin.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.Google.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.Web.Infrastructure.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Newtonsoft.Json.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Owin.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\RestSharp.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\System.Net.Http.Formatting.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\System.Web.Helpers.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\System.Web.Http.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\System.Web.Http.Owin.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\System.Web.Http.WebHost.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\System.Web.Mvc.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\System.Web.Optimization.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\System.Web.Razor.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\System.Web.WebPages.Deployment.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\System.Web.WebPages.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\System.Web.WebPages.Razor.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\WebGrease.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\DataAccess.pdb
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\RestSharp.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Newtonsoft.Json.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\System.Net.Http.Formatting.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\System.Web.Helpers.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\System.Web.Http.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\System.Web.Http.WebHost.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\System.Web.Mvc.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\System.Web.Optimization.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\System.Web.Razor.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\System.Web.WebPages.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\System.Web.WebPages.Deployment.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\System.Web.WebPages.Razor.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Antlr3.Runtime.pdb
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\EntityFramework.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\EntityFramework.SqlServer.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.Owin.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.Google.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\bin\System.Web.Http.Owin.xml
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\obj\Debug\WebApi.dll
+E:\SagarTest\Sagar_Jadhav_Assignment_VehicleTrSys.zip (Unzipped Files)\VehicleTrSys\WebApi\obj\Debug\WebApi.pdb

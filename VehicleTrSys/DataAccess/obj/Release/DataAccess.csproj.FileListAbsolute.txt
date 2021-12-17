@@ -1,0 +1,13 @@
+E:\OfficeWork\DEVELOPEMENT\WebApi\DataAccess\bin\Release\DataAccess.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\DataAccess\bin\Release\DataAccess.pdb
+E:\OfficeWork\DEVELOPEMENT\WebApi\DataAccess\bin\Release\EntityFramework.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\DataAccess\bin\Release\EntityFramework.xml
+E:\OfficeWork\DEVELOPEMENT\WebApi\DataAccess\obj\Release\DataAccess.dll
+E:\OfficeWork\DEVELOPEMENT\WebApi\DataAccess\obj\Release\DataAccess.pdb
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\DataAccess\bin\Release\DataAccess.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\DataAccess\bin\Release\DataAccess.pdb
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\DataAccess\bin\Release\EntityFramework.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\DataAccess\bin\Release\EntityFramework.xml
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\DataAccess\obj\Release\DataAccess.dll
+E:\OfficeWork\DEVELOPEMENT\ApiUniqueID\WebApi\DataAccess\obj\Release\DataAccess.pdb
